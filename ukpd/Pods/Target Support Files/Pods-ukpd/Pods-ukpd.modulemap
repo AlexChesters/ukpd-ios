@@ -1,0 +1,6 @@
+framework module Pods_ukpd {
+  umbrella header "Pods-ukpd-umbrella.h"
+
+  export *
+  module * { export * }
+}
